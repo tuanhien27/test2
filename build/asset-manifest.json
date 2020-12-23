@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tuanhien27/test2/static/css/main.b4b242a3.chunk.css",
+    "main.js": "/tuanhien27/test2/static/js/main.18a9b837.chunk.js",
+    "main.js.map": "/tuanhien27/test2/static/js/main.18a9b837.chunk.js.map",
+    "runtime-main.js": "/tuanhien27/test2/static/js/runtime-main.42f24819.js",
+    "runtime-main.js.map": "/tuanhien27/test2/static/js/runtime-main.42f24819.js.map",
+    "static/js/2.f551d45b.chunk.js": "/tuanhien27/test2/static/js/2.f551d45b.chunk.js",
+    "static/js/2.f551d45b.chunk.js.map": "/tuanhien27/test2/static/js/2.f551d45b.chunk.js.map",
+    "static/js/3.dbdfae8d.chunk.js": "/tuanhien27/test2/static/js/3.dbdfae8d.chunk.js",
+    "static/js/3.dbdfae8d.chunk.js.map": "/tuanhien27/test2/static/js/3.dbdfae8d.chunk.js.map",
+    "index.html": "/tuanhien27/test2/index.html",
+    "static/css/main.b4b242a3.chunk.css.map": "/tuanhien27/test2/static/css/main.b4b242a3.chunk.css.map",
+    "static/js/2.f551d45b.chunk.js.LICENSE.txt": "/tuanhien27/test2/static/js/2.f551d45b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42f24819.js",
+    "static/js/2.f551d45b.chunk.js",
+    "static/css/main.b4b242a3.chunk.css",
+    "static/js/main.18a9b837.chunk.js"
+  ]
+}
